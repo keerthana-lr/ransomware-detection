@@ -83,3 +83,10 @@ scaler.pkl
 
 👩‍💻 Author
 Keerthana L R
+
+
+📌 Future Improvements
+
+Add graphs & charts 📊
+Add real user authentication 🔐
+Deploy using cloud (AWS / Render) 🌍
