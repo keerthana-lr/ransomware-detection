@@ -32,10 +32,13 @@ This project is a full-stack machine learning application that detects ransomwar
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](Screenshots/Login.png)
 
 ### 📂 Upload Page
-![Upload](screenshots/upload.pngsult.png
+![Upload](Screenshots/Upload.png)
+
+### Result
+![Result](Screenshots/Result.png)
 
 ---
 
