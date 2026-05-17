@@ -54,3 +54,30 @@ python -m uvicorn main:app --reload
 The system uses:
 - Machine Learning for detection
 - FastAPI for backend
+```
+
+###🎨 Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
+🧩 Machine Learning Model
+The model was trained using Google Colab on the BitcoinHeist dataset.
+Steps:
+
+Data preprocessing
+Feature selection
+Model training (Random Forest)
+Hyperparameter tuning
+Exported using joblib
+
+Saved Files:
+
+model.pkl
+scaler.pkl
+
+
+👩‍💻 Author
+Keerthana L R
