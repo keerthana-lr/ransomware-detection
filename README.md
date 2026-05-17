@@ -55,7 +55,7 @@ The system uses:
 - Machine Learning for detection
 - FastAPI for backend
 ```
-
+---
 ### 🎨 Frontend
 ```bash
 cd frontend
@@ -63,30 +63,32 @@ npm install
 npm start
 ```
 
-🧩 Machine Learning Model
+---
+## 🧩 Machine Learning Model
+
 The model was trained using Google Colab on the BitcoinHeist dataset.
-Steps:
 
-✅ Data preprocessing
-✅ Feature selection
-✅ Model training (Random Forest)
-✅ Hyperparameter tuning
-✅ Exported using joblib
+### Steps:
+- ✅ Data preprocessing  
+- ✅ Feature selection  
+- ✅ Model training (Random Forest)  
+- ✅ Hyperparameter tuning  
+- ✅ Exported using joblib  
 
-Saved Files:
+### Saved Files:
+- model.pkl  
+- scaler.pkl  
 
-model.pkl
-scaler.pkl
+---
 
+## 👩‍💻 Author
 
+**Keerthana L R**
 
+---
 
-👩‍💻 Author
-Keerthana L R
+## 📌 Future Improvements
 
-
-📌 Future Improvements
-
-✅ Add graphs & charts 📊
-✅ Add real user authentication 🔐
-✅ Deploy using cloud (AWS / Render) 🌍
+- ✅ Add graphs & charts 📊  
+- ✅ Add real user authentication 🔐  
+- ✅ Deploy using cloud (AWS / Render) 🌍  
