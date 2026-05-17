@@ -56,7 +56,7 @@ The system uses:
 - FastAPI for backend
 ```
 
-###🎨 Frontend
+### 🎨 Frontend
 ```bash
 cd frontend
 npm install
