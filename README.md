@@ -67,11 +67,11 @@ npm start
 The model was trained using Google Colab on the BitcoinHeist dataset.
 Steps:
 
--Data preprocessing
--Feature selection
--Model training (Random Forest)
--Hyperparameter tuning
--Exported using joblib
+✅ Data preprocessing
+✅ Feature selection
+✅ Model training (Random Forest)
+✅ Hyperparameter tuning
+✅ Exported using joblib
 
 Saved Files:
 
@@ -87,6 +87,6 @@ Keerthana L R
 
 📌 Future Improvements
 
-Add graphs & charts 📊
-Add real user authentication 🔐
-Deploy using cloud (AWS / Render) 🌍
+✅ Add graphs & charts 📊
+✅ Add real user authentication 🔐
+✅ Deploy using cloud (AWS / Render) 🌍
